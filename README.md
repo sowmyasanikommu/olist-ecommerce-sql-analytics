@@ -73,7 +73,8 @@ olist-ecommerce-sql-analytics/
 ├── results/
 │   ├── aq1_running_revenue.csv
 │   ├── aq2_top_category_by_state.csv
-│   ├── aq3b_rfm_segments.csv
+│   ├── aq3_rfm_segments.csv
+│   ├── aq4a_cohort_full.csv
 │   ├── aq4b_cohort_2017.csv
 │   ├── aq5_seller_rankings.csv
 │   ├── aq6a_pareto_detail.csv
