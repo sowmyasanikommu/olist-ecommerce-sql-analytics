@@ -89,11 +89,8 @@ olist-ecommerce-sql-analytics/
 │   └── aq6b_pareto_summary.csv
 │
 ├── report/
-│   └── olist_analytics_report.pdf  ← Full business intelligence report
-│
-└── docs/
-    ├── data_quality_report.md
-    └── interview_questions.md
+   └── olist_analytics_report.pdf  ← Full business intelligence report
+
 ```
 
 ---
