@@ -71,6 +71,13 @@ olist-ecommerce-sql-analytics/
 │   └── 06_advanced_analytics.sql   ← Advanced queries (AQ1–AQ6)
 │
 ├── results/
+│   ├── aq1_running_revenue.csv
+│   ├── aq2_top_category_by_state.csv
+│   ├── aq3b_rfm_segments.csv
+│   ├── aq4b_cohort_2017.csv
+│   ├── aq5_seller_rankings.csv
+│   ├── aq6a_pareto_detail.csv
+│   ├── aq6b_pareto_summary.csv
 │   ├── bq1_monthly_revenue.csv
 │   ├── bq2_revenue_by_category.csv
 │   ├── bq3_revenue_by_state.csv
@@ -79,14 +86,8 @@ olist-ecommerce-sql-analytics/
 │   ├── bq5b_score_distribution.csv
 │   ├── bq6_top_sellers.csv
 │   ├── bq7_delivery_by_state.csv
-│   ├── bq8_customer_frequency.csv
-│   ├── aq1_running_revenue.csv
-│   ├── aq2_top_category_by_state.csv
-│   ├── aq3b_rfm_segments.csv
-│   ├── aq4b_cohort_2017.csv
-│   ├── aq5_seller_rankings.csv
-│   ├── aq6a_pareto_detail.csv
-│   └── aq6b_pareto_summary.csv
+│   └── bq8_customer_frequency.csv
+│   
 │
 ├── report/
    └── olist_analytics_report.pdf  ← Full business intelligence report
