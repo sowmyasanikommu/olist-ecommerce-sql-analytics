@@ -282,10 +282,7 @@ CREATE DATABASE olist_ecommerce;
 ## Author
 
 **Sowmya Sanikommu**
-Aspiring Data Analyst | SQL | PostgreSQL | Business Intelligence
-
-Open to Data Analyst Internships, Werkstudent Positions (Germany),
-and Entry-Level Data Analyst Roles.
+|Aspiring Data Analyst | SQL | PostgreSQL | Business Intelligence
 
 ---
 
