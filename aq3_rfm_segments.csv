@@ -1,0 +1,6 @@
+"customer_segment","total_customers","pct_of_customers","avg_spend","avg_orders","avg_recency_days"
+"Champion",13968,14.96,318.93,1.09,422.5
+"Loyal Customer",27284,29.23,242.27,1.06,279.4
+"Potential Loyalist",30354,32.51,107.62,1.01,292.2
+"At Risk",18093,19.38,52.19,1.00,216.6
+"Lost",3659,3.92,39.30,1.00,92.3

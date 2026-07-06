@@ -1,0 +1,21 @@
+"seller_id","seller_city","seller_state","total_revenue","total_orders","avg_review_score","revenue_rank","quality_rank","overall_rank"
+"fa1c13f2614d7b5c4749cbc52fecda94","sumare","SP",200833.50,578,4.37,5,28,16.5
+"7e93a43ef30c4f03f38b393420bc753a","barueri","SP",171973.55,319,4.36,8,29,18.5
+"edb1ef5e36e0c8cd84eb3c9b003e486d","teresopolis","RJ",83031.14,165,4.45,20,20,20.0
+"e882b2a25a10b9c057cc49695f222c19","teresopolis","RJ",55804.69,57,4.60,37,8,22.5
+"7a67c85e85bb2ce8582c35f2203ad736","sao paulo","SP",160908.92,1145,4.27,9,38,23.5
+"fe2032dab1a61af8794248c8196565c9","campinas","SP",70400.60,293,4.40,25,25,25.0
+"4869f7a5dfa277a7dca6462dcf3b52b2","guariba","SP",247007.06,1124,4.14,1,51,26.0
+"46dc3b2cc0980fb8ec44634e21d2718e","rio de janeiro","RJ",134162.88,503,4.26,13,39,26.0
+"a1043bafd471dff536d0c462352beb48","ilicinea","MG",130412.74,702,4.25,14,40,27.0
+"620c87c171fb2a6dd6e8bb4dec959fc6","petropolis","RJ",126878.05,722,4.27,16,38,27.0
+"ccc4bbb5f32a6ab2b7066a4130f114e3","curitiba","PR",78101.34,184,4.32,22,33,27.5
+"53243585a1d6dc2643021fd1853d8905","lauro de freitas","BA",230797.02,348,4.13,4,52,28.0
+"8581055ce74af1daba164fdbd55a40de","guarulhos","SP",74489.02,380,4.27,23,38,30.5
+"da8622b14eb17ae2831f4ac5b9dab84a","piracicaba","SP",187576.97,1311,4.08,6,57,31.5
+"cc419e0650a3c5ba77189a1882b7556a","santo andre","SP",128590.95,1651,4.15,15,50,32.5
+"37be5a7c751166fbc5f8ccba4119e043","sao paulo","SP",61643.94,269,4.31,31,34,32.5
+"955fee9216a65b617aa5c0531780ce60","sao paulo","SP",156698.66,1261,4.09,10,56,33.0
+"f7ba60f8c3f99e7ee4042fdef03b70c4","sao bernardo do campo","SP",72807.93,218,4.23,24,42,33.0
+"17f51e7198701186712e53a39c564617","sao paulo","SP",57812.43,56,4.34,35,31,33.0
+"f8db351d8c4c4c22c6835c19a46f01b0","salto","SP",62612.21,659,4.25,27,40,33.5
